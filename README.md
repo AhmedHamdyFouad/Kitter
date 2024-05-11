@@ -13,7 +13,10 @@
 </div>
 
 <br />
-<a href="https://ahmedhamdyfouad.github.io/Kitter/"><strong>➥ Live Demo</strong></a>
+<a align='center' href="https://ahmedhamdyfouad.github.io/Kitter/"><strong>➥ Live Demo</strong></a>
+
+<br/>
+<br/>
 ### Demo Screeshots
 
 ![Kitter Desktop Demo](./readme-images/desktop.png "Desktop Demo")
